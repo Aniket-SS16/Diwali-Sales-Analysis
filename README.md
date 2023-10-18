@@ -7,6 +7,6 @@ The report helped to identify potential customers across different states, occup
 1. Sales based on Gender and Age Group
 
  ![image](https://github.com/Aniket-SS16/Diwali-Sales-Analysis/assets/145046102/5a5ecd76-ef39-4465-a24b-668e014fb377)
-3. Sales and Order by Top 10 States
+2. Sales and Order by Top 10 States
 
 ![image](https://github.com/Aniket-SS16/Diwali-Sales-Analysis/assets/145046102/998f3d2d-0e38-4028-9511-6f064ccff000)
